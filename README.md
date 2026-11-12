@@ -1,16 +1,28 @@
-## Hi there 👋
+<a href="https://itsashutoshpsingh.github.io/portfolio/"><img src="https://raw.githubusercontent.com/itsashutoshpsingh/portfolio/main/github/cards/hero.svg" width="100%" alt="Ashutosh Pal Singh, security analyst. Vulnerability management and threat detection. MSc Cyber Security Engineering, University of Warwick."></a>
 
-<!--
-**itsashutoshpsingh/itsashutoshpsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://raw.githubusercontent.com/itsashutoshpsingh/portfolio/main/github/cards/graph.svg"><img src="https://raw.githubusercontent.com/itsashutoshpsingh/portfolio/main/github/cards/graph.svg" width="100%" alt="Contribution graph"></a>
 
-Here are some ideas to get you started:
+<img src="https://raw.githubusercontent.com/itsashutoshpsingh/portfolio/main/github/cards/activity.svg" width="100%" alt="Contributions per month, with streak, active days and busiest day">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://itsashutoshpsingh.github.io/portfolio/#story"><img src="https://raw.githubusercontent.com/itsashutoshpsingh/portfolio/main/github/cards/story.svg" width="32.5%" alt="The story: seven chapters from Pune 2020 to Coventry 2026"></a>
+<a href="https://itsashutoshpsingh.github.io/portfolio/#work"><img src="https://raw.githubusercontent.com/itsashutoshpsingh/portfolio/main/github/cards/work.svg" width="32.5%" alt="Production work: 1,000+ IoT devices secured at Kyoka"></a>
+<a href="mailto:itsashutoshpsingh@gmail.com"><img src="https://raw.githubusercontent.com/itsashutoshpsingh/portfolio/main/github/cards/contact.svg" width="32.5%" alt="Hiring? No visa sponsorship needed. UK Graduate visa."></a>
+
+<a href="https://github.com/itsashutoshpsingh?tab=repositories"><img src="https://raw.githubusercontent.com/itsashutoshpsingh/portfolio/main/github/cards/repo-1.svg" width="49%" alt="Featured repository"></a>
+<a href="https://github.com/itsashutoshpsingh?tab=repositories"><img src="https://raw.githubusercontent.com/itsashutoshpsingh/portfolio/main/github/cards/repo-2.svg" width="49%" alt="Featured repository"></a>
+
+## Research
+
+Open projects that measure the error rates behind blockchain investigations and forensic timelines. Real data, every miss published. [Full results](https://itsashutoshpsingh.github.io/portfolio/research/)
+
+| Project | Area | Result |
+|---|---|---|
+| [evm-cluster-check](https://github.com/itsashutoshpsingh/evm-cluster-check) | Blockchain analytics, fincrime | {{EVM}} |
+| [timetruth](https://github.com/itsashutoshpsingh/timetruth) | DFIR, tool validation | 502 of 1,828 tool-reported times (27%) were not the true instant. Every wrong value was on FAT32 or exFAT, including a month offset in libfsfat that Plaso inherits. |
+| [chain-evidence](https://github.com/itsashutoshpsingh/chain-evidence) | Evidence integrity | 383 of 383 recent Ethereum ranges agreed across providers. On older blocks a provider silently returned no logs where receipt proofs show 286. |
+
+Seven months at Kyoka Embedded Systems securing a production smart-home IoT estate of 1,000+ devices: Nessus and Qualys assessments, CVSS-led prioritisation, firmware fixes down to the bootloader, scanning automated in Python, mutual TLS for device authentication. Now I build the detection side in a home SOC lab: Sigma and Splunk rules mapped to MITRE ATT&CK, tested against Elastic and Sysmon telemetry until they fire on the attack and stay quiet on normal activity.
+
+**Published:** Singh, A.P. (2024). *Safeguarding Authenticity in the Digital Realm: Content Provenance and Watermarking to Combat Deepfakes.* IJFMR 6(3). [doi.org/10.36948/ijfmr.2024.v06i03.21580](https://doi.org/10.36948/ijfmr.2024.v06i03.21580)
+
+[Portfolio](https://itsashutoshpsingh.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/ashutosh-pal-singh/) · itsashutoshpsingh@gmail.com
