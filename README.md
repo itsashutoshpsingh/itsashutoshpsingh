@@ -17,7 +17,7 @@ Open projects that measure the error rates behind blockchain investigations and 
 
 | Project | Area | Result |
 |---|---|---|
-| [evm-cluster-check](https://github.com/itsashutoshpsingh/evm-cluster-check) | Blockchain analytics, fincrime | {{EVM}} |
+| [evm-cluster-check](https://github.com/itsashutoshpsingh/evm-cluster-check) | Blockchain analytics, fincrime | On 3 days of Ethereum, deposit-address reuse wrongly merged 198 pairs of addresses from two different exchanges. Same-sender clustering merged 359, and 60% of those came only through address-poisoning transfers. |
 | [timetruth](https://github.com/itsashutoshpsingh/timetruth) | DFIR, tool validation | 502 of 1,828 tool-reported times (27%) were not the true instant. Every wrong value was on FAT32 or exFAT, including a month offset in libfsfat that Plaso inherits. |
 | [chain-evidence](https://github.com/itsashutoshpsingh/chain-evidence) | Evidence integrity | 383 of 383 recent Ethereum ranges agreed across providers. On older blocks a provider silently returned no logs where receipt proofs show 286. |
 
